@@ -1,8 +1,8 @@
 {
-    "name": "iakumai/sphinxsearch-bundle",
+    "name": "alkhvalko/sphinxsearch-bundle",
     "type": "symfony-bundle",
-    "description": "Sphinx search bundle for Symfony 2",
-    "keywords": ["sphinx", "sphinxsearch", "symfony2"],
+    "description": "Sphinx search bundle for Symfony",
+    "keywords": ["sphinx", "sphinxsearch", "symfony"],
     "homepage": "https://github.com/IAkumaI/SphinxsearchBundle",
     "license": "MIT",
     "authors": [
@@ -16,7 +16,7 @@
         "email": "meru.no.akuma@gmail.com"
     },
     "require": {
-        "php": ">=5.3.3"
+        "php": ">=7.2"
     },
     "autoload": {
         "psr-0": {
